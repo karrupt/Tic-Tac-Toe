@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 ***Working Of Tic-Tac-Toe***
-![TicTacToe Class](images\TicTacToe.png)
+![TicTacToe Class](https://github.com/proacher/Tic-Tac-Toe/blob/main/images/TicTacToe.png)
 ### Expalination-
 ```
 't' is the Object of TicTacToe Class. TicTacToe class contains Object of two other classes namely Players and Canvas. 
